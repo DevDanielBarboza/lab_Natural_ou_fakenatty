@@ -7,7 +7,7 @@
 
 
 <div align="center">
-   🎧 <a href="Podcast ia/output/Podcast_Audio.m4a">Escute o episódio (M4A)</a>
+   🎧 <a href="https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Podcast%20ia/output/Podcast%20Audio.m4a">Escute o episódio (M4A)</a>
 </div>
 
 ---
