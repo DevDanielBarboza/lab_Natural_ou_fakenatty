@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="Podcast ia/Assets/Cover.png"
+    src="https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Podcast%20ia/Assets/Cover.png"
     width="300"
 />
 </p>
