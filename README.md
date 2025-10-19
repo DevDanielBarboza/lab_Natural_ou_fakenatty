@@ -1,16 +1,14 @@
 # lab_Natural_ou_fakenatty
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/) 
+- [Gemini](https://gemini.google.com/)
+- [Canva](https://www.canva.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ChatGPT na
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+<a href="[https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Ebook/output/Windows%2011%20Descomplicado.pdf]" title="View PDF now"> 📕Clique aqui para ler</a>
+🎧 <a href="https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Podcast%20ia/output/Podcast%20Audio.m4a">Escute o episódio (M4A)</a>
+</div>
