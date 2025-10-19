@@ -1,0 +1,47 @@
+[INTRODUÇÃO]
+
+(Som de startup leve — “bip bip”, som de conexão)
+
+João (animado):
+Fala, galera tech! Sejam muito bem-vindos ao Conexão Tech — Tendências, Inovações e Mercado! Eu sou o João, seu correspondente no universo dos bits e dos bytes, pronto pra trazer as notícias mais quentes do mundo tecnológico. Hoje vamos desvendar duas curiosidades super interessantes — e prometo: nada de papo difícil demais, só a tecnologia do jeitinho que todo entusiasta merece. Ajeita os fones, respira fundo e bora nessa conexão!
+
+[CURIOSIDADE 1]
+
+João:
+Pra começar com o pé direito: a AMD fechou um acordo colossal com a OpenAI para fornecer chips de alta potência para infraestrutura de IA. 
+
+Segundo o acordo, a AMD vai entregar até 6 gigawatts de capacidade computacional, começando com 1 gigawatt em 2026. 
+
+Além disso, a OpenAI terá opção de adquirir até 10% das ações da AMD — algo bem estratégico para os dois lados. 
+
+Esse movimento mostra que o mundo da IA está se diversificando: não depende só de uma marca de chip, e isso pode tornar tudo mais competitivo — mais escolha, mais inovação.
+
+
+[CURIOSIDADE 2]
+
+João:
+Agora vamos a um relato intrigante — direto de conversas nos fóruns de overclock:
+
+No tópico overclocking, um usuário perguntou:
+
+“Quais são aqueles sintomas silenciosos de overclock instável?”
+Ele citou algo assustador como corrupção silenciosa de arquivos, algo que pode acontecer sem perceber.
+
+Ou seja: você pode até não ver “crash” ou “tela azul”, mas seus arquivos ficam corrompidos aos poucos. Ou mesmo programas começam a falhar “sem motivo aparente”.
+
+Outro relato: um usuário subiu bastante o clock da GPU, tudo parecia estável nos testes de estresse — mas em jogos mais pesados aconteciam “erros de leitura de memória”, crashes aleatórios ou falhas gráficas visuais (artefatos). 
+
+Isso mostra que estabilidade em benchmark ou teste sintético nem sempre significa estabilidade “na vida real”. Então aquele overclock altíssimo pode esconder problemas silenciosos, difíceis de identificar no dia a dia.
+
+[FINALIZAÇÃO]
+
+João:
+E aí, curtiu o episódio de hoje?
+A gente viu a AMD entrando de vez no ringue da IA e aprendeu que nem todo overclock é tão inofensivo quanto parece.
+Fica o lembrete: tecnologia é incrível, mas também é cheia de detalhes que merecem respeito e curiosidade.
+
+Se você gostou, compartilha esse episódio com a galera tech, manda lá no grupo do Discord, e não esquece de seguir o Conexão Tech pra não perder as próximas novidades.
+
+Eu sou João e esse foi o Conexão Tech dessa semana.
+
+(Som de fade out leve)

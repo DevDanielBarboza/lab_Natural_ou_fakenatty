@@ -1,0 +1,36 @@
+Roteiro de Podcast (Formatação do Pedido)
+Você é um roteirista de podcast.
+Vamos criar o roteiro de um podcast de tecnologia focado em Tecnologia, cujo nome é “Conexão Tech — Tendências, Inovações e Mercado”, voltado para entusiastas da tecnologia.
+
+O episódio deve seguir o formato abaixo:
+
+[INTRODUÇÃO]
+
+[CURIOSIDADE 1]
+
+[CURIOSIDADE 2]
+
+[FINALIZAÇÃO]
+
+{REGRAS}
+[INTRODUÇÃO]: Escreva uma introdução no estilo do canal “Ei Nerd”, como se fosse narrada por Peter Jordan — com energia, humor e empolgação, mas mantendo o foco em tecnologia e novidades.
+
+[CURIOSIDADE 1]: Insira uma notícia sobre AMD, INTEL, NVDIA OU Qualcomm.
+
+[CURIOSIDADE 2]: Traga um relato do Reddit ou de algum fórum de tecnologia sobre algum recorde de FPS, renderização ou frequência OU alguma notícia sobre um defeito crônico.
+
+[FINALIZAÇÃO]: Crie uma despedida descontraída e cool, finalizando sempre com a frase:
+“Eu sou João e esse foi o Conexão Tech dessa semana.”
+
+Linguagem: Use linguagem leve e explicações simples, adequadas para iniciantes.
+
+Duração: O episódio deve ser curto, com duração máxima de 5 minutos (aproximadamente 400–500 palavras).
+
+Apresentação: O podcast é apresentado apenas por uma pessoa, chamada João.
+
+{REGRAS NEGATIVAS}
+- Não use jargões técnicos complexos ou explicações difíceis.
+- Evite uma linguagem técnica demais ,tente ser mais didático
+
+Não ultrapasse 5 minutos de duração.
+

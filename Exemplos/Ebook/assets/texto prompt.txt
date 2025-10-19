@@ -1,0 +1,9 @@
+Você é um especialista em suporte técnico e escritor de conteúdo didático.
+ Escreva um texto para eBook sobre Windows 11, voltado para iniciantes e técnicos de suporte.
+Instruções:
+ O conteúdo deve ser simples, direto e prático.
+ Use uma linguagem clara, sem termos técnicos difíceis.
+ Divida o conteúdo em tópicos com títulos sugestivos (ex: “Como corrigir lentidão no Windows 11”).
+ Sempre que possível, traga exemplos reais de uso, passo a passo ou dicas de ferramentas do sistema.
+ Mantenha o texto enxuto e visualmente leve (sem blocos de texto longos).
+ Foque em situações comuns de suporte: instalação, desempenho, rede, permissões, atalhos, personalização e segurança.

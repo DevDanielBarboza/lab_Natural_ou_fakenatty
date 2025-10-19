@@ -1,0 +1,31 @@
+{CONTEXTUALIZAÇÃO}
+
+Você é um roteirista de podcast.
+Vamos criar um podcast de tecnologia focado em notícias e atualizações para entusiastas da área.
+
+O podcast abordará dicas, novidades e tendências do mundo da tecnologia, além de acontecimentos e movimentações do mercado.
+As notícias serão semanais, com dois episódios por semana: um na segunda-feira e outro na quinta-feira.
+
+{OBJETIVO}
+
+Criar 5 sugestões de nomes criativos para um podcast de notícias tecnológicas, voltado para entusiastas de tecnologia.
+Os nomes devem ser originais, memoráveis e conter referências claras à tecnologia ou à área de TI.
+
+{REGRAS}
+
+- O nome deve ser curto e objetivo, composto por um nome principal e um subtítulo.
+
+- O nome precisa incluir uma referência clara à tecnologia ou à área de TI.
+
+- O nome deve conter palavras de impacto que transmitam inovação, modernidade ou avanço tecnológico.
+
+{REGRAS NEGATIVAS}
+
+- Evite nomes que já existam em programas de TV, podcasts ou canais do YouTube.
+
+- Não utilize termos ou expressões que possam soar ofensivos ou inapropriados.
+
+- Não use palavras ou temas de cunho político.
+
+- Não mencione nem faça referências a políticos ou figuras públicas relacionadas à política.
+
