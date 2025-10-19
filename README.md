@@ -6,7 +6,10 @@
 - [Canva](https://www.canva.com/)
 
 ## 🧐 Processo de Criação
-ChatGPT na
+Conteúdo gerado via ChatGPT
+Imagens geradas via Gemini
+Audio gerado pela ElevenLabs
+Clipchamp para edição de aúdio
 
 ## 🚀 Resultados
 <a href="https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Ebook/output/Windows%2011%20Descomplicado.pdf"> 📕Clique aqui para ler</a>
