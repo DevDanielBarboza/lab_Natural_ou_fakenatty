@@ -13,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/DevDanielBarboza/Windows_11_Descomplicado_EBOOK_IA/blob/main/Ebook/output/Windows%2011%20Descomplicado.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/DevDanielBarboza/lab_Natural_ou_fakenatty/blob/main/Exemplos/Ebook/output/Windows%2011%20Descomplicado.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
